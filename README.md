@@ -39,9 +39,9 @@ recommendation system/
 ---
 
 ## 🛠 How to run locally
-# run helper.py first to create user_item_matrix.csv                  |
-# then run server.py to active server                                 |
-# to run website go to the website's folder and type cmd              |
-# in cmd type "python -m http.server" to expose HTTP on 8000 port     |
-# then run wesbite by typing "http://localhost:8000/" in browser      |
-# Recommended System will work only when there's 2 user in system 
+1.  run helper.py first to create user_item_matrix.csv                  
+2. then run server.py to active server                                 
+3. to run website go to the website's folder and type cmd             
+4. in cmd type "python -m http.server" to expose HTTP on 8000 port     
+5. then run wesbite by typing "http://localhost:8000/" in browser      
+6. Recommended System will work only when there's 2 user in system 
