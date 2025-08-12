@@ -27,3 +27,24 @@ recommendation system/
 ├─ helper.py
 ├─ server.py
 ├─ imdb_top_1000.csv
+
+---
+
+## 📦 Requirements
+
+- Python 3.8+
+- Flask
+- (Optional) Modern web browser
+
+---
+
+## 🛠 How to run locally
+
+1️⃣ **Create a virtual environment**
+```bash
+python -m venv venv
+# Activate:
+# Windows
+venv\Scripts\activate
+# macOS / Linux
+source venv/bin/activate
