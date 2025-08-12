@@ -18,6 +18,7 @@
 
 ## 📂 File structure
 
+```
 recommendation system/  
 ├─ index.html  
 ├─ genre.html  
@@ -30,7 +31,8 @@ recommendation system/
 ├─ movie_style.css  
 ├─ helper.py  
 ├─ server.py  
-├─ imdb_top_1000.csv  
+├─ imdb_top_1000.csv
+```
 
 ---
 
