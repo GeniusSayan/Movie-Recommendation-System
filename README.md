@@ -39,12 +39,9 @@ recommendation system/
 ---
 
 ## 🛠 How to run locally
-
-1️⃣ **Create a virtual environment**
-```bash
-python -m venv venv
-# Activate:
-# Windows
-venv\Scripts\activate
-# macOS / Linux
-source venv/bin/activate
+# run helper.py first to create user_item_matrix.csv                  |
+# then run server.py to active server                                 |
+# to run website go to the website's folder and type cmd              |
+# in cmd type "python -m http.server" to expose HTTP on 8000 port     |
+# then run wesbite by typing "http://localhost:8000/" in browser      |
+# Recommended System will work only when there's 2 user in system 
